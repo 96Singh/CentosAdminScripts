@@ -1,2 +1,2 @@
-# CentosAdminScripts
+# CentOSAdminScripts
 SysAdmin bash scripts
