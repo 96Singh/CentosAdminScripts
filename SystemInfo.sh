@@ -2,6 +2,11 @@
 #This script will list basic system information about your VM
 
 #HostDetails
+echo "-----OS installed-----"
+cat /etc/redhat-release
+echo " "
+
+
 echo "-----HostDetails-----"
 sudo hostname
 echo " "
