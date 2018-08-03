@@ -1,2 +1,2 @@
 # CentOSAdminScripts
-SysAdmin bash scripts
+SysAdmin bash scripts Sutable to be used on CentOS 6
