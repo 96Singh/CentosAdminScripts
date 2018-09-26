@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# You must be root to action this script.
 for i in $@ ; do
 
     if ping -c1 $@ > /dev/null ; then
