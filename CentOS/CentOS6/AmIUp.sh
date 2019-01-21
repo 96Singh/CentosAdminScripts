@@ -1,5 +1,6 @@
 #!/bin/bash
 # Checks which hosts in your /etc/hosts file are up or down
+# Prints output in colour
 
 ENABLE_IPV6=true
 GREEN="\033[0;32m"
